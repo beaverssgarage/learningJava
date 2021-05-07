@@ -1,5 +1,11 @@
 package by.beaverssgarage;
 import java.util.Scanner;
+
+/**
+ * Задать пользователю любой вопрос
+ * и дать ограниченное количество попыток для верного ответа.
+ * Предусмотреть возможность сдаться.
+ */
 public class HomeWork2_3 {
     private static final String imGiveUp = "looser";
     private static final String YES_YOU_DID_IT = "Yes, you did it!";
